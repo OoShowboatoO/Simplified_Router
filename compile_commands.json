@@ -1,0 +1,272 @@
+[
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/address.cc.o -c /home/cs144/csc458-pa/util/address.cc",
+  "file": "/home/cs144/csc458-pa/util/address.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/arp_message.cc.o -c /home/cs144/csc458-pa/util/arp_message.cc",
+  "file": "/home/cs144/csc458-pa/util/arp_message.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/ethernet_header.cc.o -c /home/cs144/csc458-pa/util/ethernet_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ethernet_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/file_descriptor.cc.o -c /home/cs144/csc458-pa/util/file_descriptor.cc",
+  "file": "/home/cs144/csc458-pa/util/file_descriptor.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/ipv4_header.cc.o -c /home/cs144/csc458-pa/util/ipv4_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ipv4_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/util_debug.dir/socket.cc.o -c /home/cs144/csc458-pa/util/socket.cc",
+  "file": "/home/cs144/csc458-pa/util/socket.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/address.cc.o -c /home/cs144/csc458-pa/util/address.cc",
+  "file": "/home/cs144/csc458-pa/util/address.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/arp_message.cc.o -c /home/cs144/csc458-pa/util/arp_message.cc",
+  "file": "/home/cs144/csc458-pa/util/arp_message.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/ethernet_header.cc.o -c /home/cs144/csc458-pa/util/ethernet_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ethernet_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/file_descriptor.cc.o -c /home/cs144/csc458-pa/util/file_descriptor.cc",
+  "file": "/home/cs144/csc458-pa/util/file_descriptor.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/ipv4_header.cc.o -c /home/cs144/csc458-pa/util/ipv4_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ipv4_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/util_sanitized.dir/socket.cc.o -c /home/cs144/csc458-pa/util/socket.cc",
+  "file": "/home/cs144/csc458-pa/util/socket.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/address.cc.o -c /home/cs144/csc458-pa/util/address.cc",
+  "file": "/home/cs144/csc458-pa/util/address.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/arp_message.cc.o -c /home/cs144/csc458-pa/util/arp_message.cc",
+  "file": "/home/cs144/csc458-pa/util/arp_message.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/ethernet_header.cc.o -c /home/cs144/csc458-pa/util/ethernet_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ethernet_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/file_descriptor.cc.o -c /home/cs144/csc458-pa/util/file_descriptor.cc",
+  "file": "/home/cs144/csc458-pa/util/file_descriptor.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/ipv4_header.cc.o -c /home/cs144/csc458-pa/util/ipv4_header.cc",
+  "file": "/home/cs144/csc458-pa/util/ipv4_header.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/util",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/util_optimized.dir/socket.cc.o -c /home/cs144/csc458-pa/util/socket.cc",
+  "file": "/home/cs144/csc458-pa/util/socket.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/csc458_debug.dir/network_interface.cc.o -c /home/cs144/csc458-pa/src/network_interface.cc",
+  "file": "/home/cs144/csc458-pa/src/network_interface.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/csc458_debug.dir/router.cc.o -c /home/cs144/csc458-pa/src/router.cc",
+  "file": "/home/cs144/csc458-pa/src/router.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/csc458_debug.dir/webget.cc.o -c /home/cs144/csc458-pa/src/webget.cc",
+  "file": "/home/cs144/csc458-pa/src/webget.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/csc458_sanitized.dir/network_interface.cc.o -c /home/cs144/csc458-pa/src/network_interface.cc",
+  "file": "/home/cs144/csc458-pa/src/network_interface.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/csc458_sanitized.dir/router.cc.o -c /home/cs144/csc458-pa/src/router.cc",
+  "file": "/home/cs144/csc458-pa/src/router.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/csc458_sanitized.dir/webget.cc.o -c /home/cs144/csc458-pa/src/webget.cc",
+  "file": "/home/cs144/csc458-pa/src/webget.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/csc458_optimized.dir/network_interface.cc.o -c /home/cs144/csc458-pa/src/network_interface.cc",
+  "file": "/home/cs144/csc458-pa/src/network_interface.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/csc458_optimized.dir/router.cc.o -c /home/cs144/csc458-pa/src/router.cc",
+  "file": "/home/cs144/csc458-pa/src/router.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -O2 -std=gnu++20 -o CMakeFiles/csc458_optimized.dir/webget.cc.o -c /home/cs144/csc458-pa/src/webget.cc",
+  "file": "/home/cs144/csc458-pa/src/webget.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/src",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/webget.dir/webget.cc.o -c /home/cs144/csc458-pa/src/webget.cc",
+  "file": "/home/cs144/csc458-pa/src/webget.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/csc458_testing_debug.dir/common.cc.o -c /home/cs144/csc458-pa/tests/common.cc",
+  "file": "/home/cs144/csc458-pa/tests/common.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/csc458_testing_sanitized.dir/common.cc.o -c /home/cs144/csc458-pa/tests/common.cc",
+  "file": "/home/cs144/csc458-pa/tests/common.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_typical_sanitized.dir/net_interface_test_typical.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_typical.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_typical.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_typical.dir/net_interface_test_typical.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_typical.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_typical.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_reply_sanitized.dir/net_interface_test_reply.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_reply.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_reply.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_reply.dir/net_interface_test_reply.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_reply.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_reply.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_learn_sanitized.dir/net_interface_test_learn.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_learn.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_learn.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_learn.dir/net_interface_test_learn.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_learn.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_learn.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_pending_sanitized.dir/net_interface_test_pending.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_pending.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_pending.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_pending.dir/net_interface_test_pending.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_pending.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_pending.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_expiry_sanitized.dir/net_interface_test_expiry.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_expiry.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_expiry.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_expiry.dir/net_interface_test_expiry.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_expiry.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_expiry.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/net_interface_test_independence_sanitized.dir/net_interface_test_independence.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_independence.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_independence.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/net_interface_test_independence.dir/net_interface_test_independence.cc.o -c /home/cs144/csc458-pa/tests/net_interface_test_independence.cc",
+  "file": "/home/cs144/csc458-pa/tests/net_interface_test_independence.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_2hosts_1_sanitized.dir/router_2hosts_1.cc.o -c /home/cs144/csc458-pa/tests/router_2hosts_1.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_2hosts_1.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_2hosts_1.dir/router_2hosts_1.cc.o -c /home/cs144/csc458-pa/tests/router_2hosts_1.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_2hosts_1.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_2hosts_2_sanitized.dir/router_2hosts_2.cc.o -c /home/cs144/csc458-pa/tests/router_2hosts_2.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_2hosts_2.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_2hosts_2.dir/router_2hosts_2.cc.o -c /home/cs144/csc458-pa/tests/router_2hosts_2.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_2hosts_2.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_internet_sanitized.dir/router_internet.cc.o -c /home/cs144/csc458-pa/tests/router_internet.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_internet.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_internet.dir/router_internet.cc.o -c /home/cs144/csc458-pa/tests/router_internet.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_internet.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_hs_network_sanitized.dir/router_hs_network.cc.o -c /home/cs144/csc458-pa/tests/router_hs_network.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_hs_network.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_hs_network.dir/router_hs_network.cc.o -c /home/cs144/csc458-pa/tests/router_hs_network.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_hs_network.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_same_network_sanitized.dir/router_same_network.cc.o -c /home/cs144/csc458-pa/tests/router_same_network.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_same_network.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_same_network.dir/router_same_network.cc.o -c /home/cs144/csc458-pa/tests/router_same_network.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_same_network.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o CMakeFiles/router_ttl_sanitized.dir/router_ttl.cc.o -c /home/cs144/csc458-pa/tests/router_ttl.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_ttl.cc"
+},
+{
+  "directory": "/home/cs144/csc458-pa/build/tests",
+  "command": "/usr/bin/c++  -I/home/cs144/csc458-pa/util -I/home/cs144/csc458-pa/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -std=gnu++20 -o CMakeFiles/router_ttl.dir/router_ttl.cc.o -c /home/cs144/csc458-pa/tests/router_ttl.cc",
+  "file": "/home/cs144/csc458-pa/tests/router_ttl.cc"
+}
+]
